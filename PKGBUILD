@@ -2,7 +2,7 @@
 
 pkgname=clipmenu-git
 _gitname=clipmenu
-pkgver=10.3a4a76d
+pkgver=11.c40456c
 pkgrel=1
 pkgdesc="A simple clipboard manager using dmenu."
 license=( MIT )
